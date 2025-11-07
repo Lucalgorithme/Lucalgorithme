@@ -7,10 +7,11 @@
 I'm a 2nd-year engineering student at IG2I (Centrale Lille), passionate about development in general — from web applications to low-level systems.
 I love designing efficient code, exploring how things work under the hood, and turning ideas into functional projects.
 
+-------------------------------------------------------------------------------------------------------------------
+
 🚀 Projects
 
 🧩 Avalam — Strategy game project focused on designing and optimizing custom algorithms (Minimax & MCTS)
-
 🔄 SkillSwap — Web platform that allows users to exchange skills or trade them for virtual tokens
 
 🛠️ Languages & Tools
