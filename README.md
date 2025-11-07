@@ -14,7 +14,10 @@ I love designing efficient code, exploring how things work under the hood, and t
 🧩 Avalam — Strategy game project focused on designing and optimizing custom algorithms (Minimax & MCTS)
 🔄 SkillSwap — Web platform that allows users to exchange skills or trade them for virtual tokens
 
+-------------------------------------------------------------------------------------------------------------------
+
 🛠️ Languages & Tools
+
 💻 Programming Languages
 
 C — solid fundamentals, algorithmic logic, microcontrollers & Arduino
@@ -43,6 +46,8 @@ phpMyAdmin / MySQL
 
 Arduino IDE
 
+-------------------------------------------------------------------------------------------------------------------
+
 📈 What I’m Working On
 
 Improving my backend & full-stack development skills
@@ -52,6 +57,8 @@ Deepening my understanding of embedded systems and microcontrollers
 PINF — software project using Node.js and React
 
 PIND — connected Avalam board with an embedded detection system
+
+-------------------------------------------------------------------------------------------------------------------
 
 📫 Contact
 
