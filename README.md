@@ -30,6 +30,8 @@ I love designing efficient code, exploring how things work under the hood, and t
 * VS Code
 * phpMyAdmin / MySQL
 * Arduino IDE
+* MPLABx
+* Scilab
 
 ---
 
