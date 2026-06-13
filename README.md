@@ -10,13 +10,15 @@ I love designing efficient code, exploring how things work under the hood, and t
 ## 🚀 Projects
 * 🧩 **Avalam** — Strategy game project focused on designing and optimizing custom algorithms (Minimax & MCTS)
 * 🔄 **SkillSwap** — Web platform that allows users to exchange skills or trade them for virtual tokens
+* **PINF** — software project using Node.js and React
+* **PIND** — connected Avalam board with an embedded detection system
 
 ---
 
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-* **C** — solid fundamentals, algorithmic logic, microcontrollers & Arduino
+* **C/C#** — solid fundamentals, algorithmic logic, microcontrollers & Arduino
 * **Python (basic)** — scripting, automation, small utilities
 * **Web** — PHP, HTML, CSS, JavaScript
 * **SQL** — database design and management
@@ -28,18 +30,19 @@ I love designing efficient code, exploring how things work under the hood, and t
 * Git
 * Linux (Ubuntu)
 * VS Code
+* Visual Studio
 * phpMyAdmin / MySQL
 * Arduino IDE
 * MPLABx
 * Scilab
+* OPC UA (basics)
+* UA Expert
 
 ---
 
 ## 📈 What I’m Working On
 * Improving my backend & full-stack development skills
 * Deepening my understanding of embedded systems and microcontrollers
-* **PINF** — software project using Node.js and React
-* **PIND** — connected Avalam board with an embedded detection system
 
 ---
 
